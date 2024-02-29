@@ -1,0 +1,82 @@
+#main_hbox {
+    background-color: white;
+    min-width: 1000px;
+    min-height: 650px;
+}
+
+#label_users {
+    border: 5px;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    color: black;
+    border-bottom: 2px solid black;
+}
+
+#label_chat {
+    border: 5px;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    color: black;
+
+}
+
+#label_channels {
+    border: 5px;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    color: black;
+    border-bottom: 2px solid black;
+}
+
+#vbox_users {
+    border: 2px solid black;
+    min-height: 650px;
+    min-width: 200px;
+}
+
+#vbox_chat {
+    border: 2px solid black;
+    min-height: 650px;
+    min-width: 600px;
+}
+
+#vbox_channels {
+    border: 2px solid black;
+    min-height: 650px;
+    min-width: 200px;
+}
+
+#received_messages_box {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    min-height: 550px;
+    min-width: 600px;
+}
+
+#input_row {
+    min-height: 50px;
+    min-width: 600px;
+}
+
+#message_input{
+    min-height: 50px;
+    min-width: 570px;
+}
+
+#send_button {
+    min-height: 50px;
+    min-width: 30px;
+}
+
+#error_label {
+    font-size: 30px;
+    padding: 10px;
+}
+
+#error_box {
+    min-height: 250px;
+    min-width: 500px;
+}
